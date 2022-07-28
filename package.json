@@ -102,7 +102,7 @@
   "engines": {
     "node": "16.15.0"
   },
-  "packageManager": "yarn@3.2.1",
+  "packageManager": "yarn@3.2.2",
   "alias": {
     "@botpress/base": "@botpress/base/src",
     "@botpress/chat": "@botpress/chat/src",

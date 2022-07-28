@@ -28362,7 +28362,7 @@ __metadata:
 
 "typescript@patch:typescript@^2.5.0#~builtin<compat/typescript>":
   version: 2.9.2
-  resolution: "typescript@patch:typescript@npm%3A2.9.2#~builtin<compat/typescript>::version=2.9.2&hash=7ad353"
+  resolution: "typescript@patch:typescript@npm%3A2.9.2#~builtin<compat/typescript>::version=2.9.2&hash=f456af"
   bin:
     tsc: ./bin/tsc
     tsserver: ./bin/tsserver
@@ -28372,7 +28372,7 @@ __metadata:
 
 "typescript@patch:typescript@~4.6.4#~builtin<compat/typescript>":
   version: 4.6.4
-  resolution: "typescript@patch:typescript@npm%3A4.6.4#~builtin<compat/typescript>::version=4.6.4&hash=7ad353"
+  resolution: "typescript@patch:typescript@npm%3A4.6.4#~builtin<compat/typescript>::version=4.6.4&hash=f456af"
   bin:
     tsc: bin/tsc
     tsserver: bin/tsserver
